@@ -79,8 +79,8 @@ Defines the styling for both components, including:
 ## Installation and Setup
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/React Pr-1.git
-cd React Pr-1
+git clone https://github.com/Counter-To-Do-
+cd Counter-To-Do-
 ```
 
 ### **2. Install Dependencies**
